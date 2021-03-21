@@ -3,8 +3,7 @@
         {
             "key" : "123",
             "name" : "Meeting Room A1",
-            "heroUrl": "https://via.placeholder.com/600/92c952",
-            "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+            "thumbnailUrl": "https://picsum.photos/200",
             "location" : {
                 "region" : {
                     "key" : "123",
@@ -27,8 +26,7 @@
         {
             "key" : "345",
             "name" : "Meeting Room B2",
-            "heroUrl": "https://via.placeholder.com/600/771796",
-            "thumbnailUrl": "https://via.placeholder.com/150/771796",
+            "thumbnailUrl": "https://picsum.photos/200",
             "location" : {
                 "region" : {
                     "key" : "123",
@@ -51,8 +49,7 @@
         {
             "key" : "456",
             "name" : "Meeting Room C3",
-            "heroUrl": "https://via.placeholder.com/600/24f355",
-            "thumbnailUrl": "https://via.placeholder.com/150/24f355",
+            "thumbnailUrl": "https://picsum.photos/200",
             "location" : {
                 "region" : {
                     "key" : "123",
@@ -75,8 +72,7 @@
         {
             "key" : "567",
             "name" : "Meeting Room D4",
-            "heroUrl": "https://via.placeholder.com/600/d32776",
-            "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+            "thumbnailUrl": "https://picsum.photos/200",
             "location" : {
                 "region" : {
                     "key" : "123",

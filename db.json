@@ -1,14 +1,92 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "rooms": [
+    {
+4            "key" : "123",
+5            "name" : "Meeting Room A1",
+6            "location" : {
+7                "region" : {
+8                    "key" : "123",
+9                    "name" : "Hong Kong"
+10                },
+11                "site" : {
+12                    "key" : "234",
+13                    "name" : "Hong Kong Exchange Square"
+14                },
+15                "building" : {
+16                    "key" : "456",
+17                    "name" : "Two International Finance Centre"
+18                },
+19                "floor" : {
+20                    "key" : "567",
+21                    "name" : "Floor 12"
+22                }
+23            }
+24        },
+25        {
+26            "key" : "345",
+27            "name" : "Meeting Room B2",
+28            "location" : {
+29                "region" : {
+30                    "key" : "123",
+31                    "name" : "Hong Kong"
+32                },
+33                "site" : {
+34                    "key" : "234",
+35                    "name" : "Hong Kong Exchange Square"
+36                },
+37                "building" : {
+38                    "key" : "456",
+39                    "name" : "Two International Finance Centre"
+40                },
+41                "floor" : {
+42                    "key" : "567",
+43                    "name" : "Floor 12"
+44                }
+45            }
+46        },
+47        {
+48            "key" : "456",
+49            "name" : "Meeting Room C3",
+50            "location" : {
+51                "region" : {
+52                    "key" : "123",
+53                    "name" : "Hong Kong"
+54                },
+55                "site" : {
+56                    "key" : "234",
+57                    "name" : "Hong Kong Exchange Square"
+58                },
+59                "building" : {
+60                    "key" : "456",
+61                    "name" : "Two International Finance Centre"
+62                },
+63                "floor" : {
+64                    "key" : "567",
+65                    "name" : "Floor 12"
+66                }
+67            }
+68        },
+69        {
+70            "key" : "567",
+71            "name" : "Meeting Room D4",
+72            "location" : {
+73                "region" : {
+74                    "key" : "123",
+75                    "name" : "Hong Kong"
+76                },
+77                "site" : {
+78                    "key" : "234",
+79                    "name" : "Hong Kong Exchange Square"
+80                },
+81                "building" : {
+82                    "key" : "456",
+83                    "name" : "Two International Finance Centre"
+84                },
+85                "floor" : {
+86                    "key" : "567",
+87                    "name" : "Floor 12"
+88                }
+89            }
+90        }
+  ]
 }

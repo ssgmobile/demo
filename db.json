@@ -4,6 +4,7 @@
             "key" : "123",
             "name" : "Meeting Room A1",
             "thumbnailUrl": "https://via.placeholder.com/200",
+            "capacity" : 24,
             "location" : {
                 "region" : {
                     "key" : "123",
@@ -27,6 +28,7 @@
             "key" : "345",
             "name" : "Meeting Room B2",
             "thumbnailUrl": "https://via.placeholder.com/200",
+            "capacity" : 30,
             "location" : {
                 "region" : {
                     "key" : "123",
@@ -50,6 +52,7 @@
             "key" : "456",
             "name" : "Meeting Room C3",
             "thumbnailUrl": "https://via.placeholder.com/200",
+            "capacity" : 65,
             "location" : {
                 "region" : {
                     "key" : "123",
@@ -73,6 +76,7 @@
             "key" : "567",
             "name" : "Meeting Room D4",
             "thumbnailUrl": "https://via.placeholder.com/200",
+            "capacity" : 4,
             "location" : {
                 "region" : {
                     "key" : "123",
